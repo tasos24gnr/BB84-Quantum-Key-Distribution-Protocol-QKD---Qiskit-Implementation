@@ -100,7 +100,7 @@ This repository accompanies a formal report that discusses:
 ---
 
 ## 💡 License
-GNUv3
+GNU GPLv3
 ---
 
 ## 🤝 Contributions
